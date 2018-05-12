@@ -1,0 +1,35 @@
+_repo: The-Navy-as-a-Fighting-Machine_17547
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fiske, Bradley A. (Bradley Allen)
+    alias: Fiske, Bradley Allen
+    birthdate: 1854
+    deathdate: 1942
+    gutenberg_agent_id: '7447'
+    url: http://www.gutenberg.org/2009/agents/7447
+    wikipedia: http://en.wikipedia.org/wiki/Bradley_Fiske
+description: '"What is the navy for? Of what parts should be composed? What principles
+  should be followed in designing, preparing, and operating it in order to get the
+  maximum return for the money expended? To answer these questions clearly and without
+  technical language is the object of this book"--Preface.'
+gutenberg_issued: '2006-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Navies'
+- !lcc 'V'
+- !lcsh 'Naval strategy'
+- !lcsh 'Sea-power'
+- !lcsh 'Naval art and science'
+- !lcsh 'United States. Navy -- Management'
+title: The Navy as a Fighting Machine
+url: http://www.gutenberg.org/ebooks/17547
